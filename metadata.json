@@ -1,0 +1,6 @@
+{
+  "name": "Reel Spark - AI Creative Agency & Digital Marketing",
+  "description": "Reel Spark helps businesses stand out with AI-powered advertisements, premium product videos, creative designs, and customized wedding invitations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
